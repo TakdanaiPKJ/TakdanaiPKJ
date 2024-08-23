@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello there 👋, I'm Takdanai
+#### I'm computer engineering student at Chulalongkorn University
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
-<!--
-**TakdanaiPKJ/TakdanaiPKJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skill
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,flutter,pr,dart)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## Hobby
+🎹 Part time Musician
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏐 Volleyball player
+
+📖 Lazy Reader
+##
+### Contact Me
+#### Email: takdanai.pr@outlook.com
+#### Instragram : Secret kub
